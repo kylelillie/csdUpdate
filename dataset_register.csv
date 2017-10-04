@@ -1,0 +1,76 @@
+dataset,dtype
+Air Quality Index.csv,2
+Apprenticeship.csv,3
+Average Rent.csv,2
+Average Rents.csv,2
+Bankruptcies.csv,3
+Births and Deaths.csv,3
+Building Permits.csv,3
+Business Counts by Industry.csv,3
+Business Counts by Size.csv,3
+Businesses.csv,3
+Cattle and Calves.csv,3
+Census Employment.csv,1
+Crime Rates.csv,3
+Crop Acres.csv,3
+Daily Smoker.csv,1
+Daily Vehicles per KM.csv,0
+Driver's Licenses.csv,3
+DTap by Age 2.csv,1
+Dwelling Units.csv,3
+Educational Attainment.csv,3
+Emergency Room Visit.csv,3
+Employment by Industry.csv,3
+Employment Insurance Beneficiaries.csv,3
+Energy.csv,3
+Enrollments.csv,3
+Family Doctor.csv,1
+Farm Area.csv,3
+Farm Receipts.csv,3
+Fires.csv,3
+GHG Emissions.csv,3
+Had Flu within Last Year.csv,1
+Heaver Drinker.csv,1
+High School Enrollments.csv,3
+Households by Structural Type.csv,3
+Housing Starts.csv,3
+Immunization by Age 2.csv,1
+Incorporations.csv,3
+Internet Speeds.csv,2
+K - 9 Enrollments.csv,3
+Land Titles.csv,3
+Languages.csv,3
+Life Expectancy.csv,1
+Life Stress.csv,1
+Median Income.csv,2
+Motorized Vehicle Registrations.csv,3
+Municipal Tax Rates.csv,0
+Municipal Tax Total.csv,3
+Natural Gas Production.csv,3
+Natural Gas Reserves.csv,3
+Net Commuter Flow.csv,0
+Oil Production.csv,3
+Overweight.csv,1
+Percent Aboriginal.csv,1
+Percent of Small Businesses.csv,1
+Percent Official Language Speakers.csv,1
+Percent Single Family Houses.csv,1
+Percent Visible Minority.csv,1
+Permanent Resident Landings.csv,3
+Physical Activity.csv,1
+Pigs.csv,3
+Population.csv,3
+Post-Sec Enrollment (Institution).csv,3
+Post-Sec Enrollment (Program).csv,3
+Residential Share of Property Assessments.csv,2
+Sense of Belonging.csv,1
+Temporary Resident Entries.csv,3
+Temporary Resident Stock.csv,3
+Total Equalized Assessment.csv,3
+Total Income.csv,3
+Total Number of Businesses.csv,3
+Traffic Volume by Vehicle Classification.csv,0
+Vacancy Rates.csv,2
+Well Count.csv,3
+Language Speakers.csv,3
+Percent Language Speakers.csv,2
